@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.user.androidswitch.MainActivity">
+    <item
+        android:id="@+id/menu_main"
+        android:orderInCategory="100"
+        android:title="@string/menu_main"
+        app:showAsAction="always">
+
+        <menu>
+            <item
+                android:id="@+id/new_age"
+                android:title="@string/new_age"
+                android:orderInCategory="100"
+                />
+
+            <item
+                android:id="@+id/load_age"
+                android:title="@string/load_age"
+                android:orderInCategory="100"
+                />
+
+            <item
+                android:id="@+id/save_age"
+                android:title="@string/save_age"
+                android:orderInCategory="100"
+                />
+
+            </menu>
+
+        </item>
+</menu>

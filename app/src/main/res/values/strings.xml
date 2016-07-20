@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AndroidSwitch</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_main">Menu</string>
+    <string name="new_age">New Age</string>
+    <string name="load_age">Load Age</string>
+    <string name="save_age">Save Age</string>
+    <string name="user_email">User Email:</string>
+    <string name="your_age">Your Age:</string>
+    <string name="notification_view">Notification View</string>
+    <string name="age_group">Age Group:</string>
+    <string name="show_age">Show Age:</string>
+    <string name="send_Age">sendAge</string>
+    <string name="show_text">Age Group Identified</string>
+    <string name="show_Title">New Post</string>
+</resources>
